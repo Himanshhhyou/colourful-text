@@ -22,7 +22,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 
 ```
 ### Step 2 : Add Google font link
-``` html
+``` php
 <!DOCTYPE html>
 <html lang="en">
 
