@@ -22,7 +22,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 
 ```
 ### Step 2 : Add Google font link
-
+``` c#
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,7 +32,7 @@ Here, I'll show you how to change the color of individual letters in a word.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Colourful Text</title>
-
+```
 ```html
   <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
