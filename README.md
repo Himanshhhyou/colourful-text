@@ -3,6 +3,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 ![colourful-text.png](colourful-text.png)
 
 ## HTML
+[index.html](index.html)
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -13,6 +14,9 @@ Here, I'll show you how to change the color of individual letters in a word.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Colourful Text</title>
+
+  <!-- External Stylesheet -->
+  <link rel="stylesheet" href="style.css">
 
   <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -40,6 +44,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 ```
 
 ## CSS
+[style.css](style.css)
 ``` css
  <style>
     /* Styling for the body */
