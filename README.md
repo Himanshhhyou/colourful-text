@@ -5,7 +5,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 ## HTML
 
 > 🙋**Attention Here:**
-I utilize Google Fonts` exclusively to switch the font family. Alternatively, you can select a different font or stick with the default one provided by your browser`.
+`I utilize Google Fonts exclusively to switch the font family. Alternatively, you can select a different font or stick with the default one provided by your browser`.
 
 [index.html](index.html)
 ```html
