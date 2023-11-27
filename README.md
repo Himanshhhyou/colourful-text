@@ -31,7 +31,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 </head>
 
 <body>
-  <h1>
+  <div>
     <!-- Individual spans for each letter with corresponding classes for colors -->
     <span class="l1">W</span>
     <span class="l2">E</span>
@@ -42,7 +42,7 @@ Here, I'll show you how to change the color of individual letters in a word.
     <span class="l7">I</span>
     <span class="l8">G</span>
     <span class="l9">N</span>
-  </h1>
+  </div>
 </body>
 </html>
 ```
@@ -62,7 +62,7 @@ body {
 
 /* Styling for each individual letter */
 span {
-  font-size: 2em;
+  font-size: 4em;
 }
 
 .l1 {
