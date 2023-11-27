@@ -1,30 +1,8 @@
 # Colourful-text
 Here, I'll show you how to change the color of individual letters in a word.
 
-### Step 1: Write basic syntax of html
-``` html
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <!-- Set character set and viewport for responsiveness -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Colourful Text</title>
-</head>
-
-<body>
-  
-</body>
-
-</html>
-
-```
-### Step 2 : Add Google font link
-Here I use Arizonia font from Google fonts
-
-``` html
+## HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -38,14 +16,24 @@ Here I use Arizonia font from Google fonts
   <!-- Preconnect to Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
+  
   <!-- Import and apply the 'Arizonia' font from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Arizonia&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
+  <h1>
+    <!-- Individual spans for each letter with corresponding classes for colors -->
+    <span class="l1">W</span>
+    <span class="l2">E</span>
+    <span class="l3">B</span><br>
+    <span class="l4">D</span>
+    <span class="l5">E</span>
+    <span class="l6">S</span>
+    <span class="l7">I</span>
+    <span class="l8">G</span>
+    <span class="l9">N</span>
+  </h1>
 </body>
-
 </html>
 ```
