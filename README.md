@@ -22,6 +22,7 @@ Here, I'll show you how to change the color of individual letters in a word.
 
 ```
 ### Step 2 : Add Google font link
+``` html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -37,7 +38,6 @@ Here, I'll show you how to change the color of individual letters in a word.
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <!-- Import and apply the 'Arizonia' font from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Arizonia&display=swap" rel="stylesheet">
-```
 </head>
 
 <body>
@@ -45,3 +45,4 @@ Here, I'll show you how to change the color of individual letters in a word.
 </body>
 
 </html>
+```
