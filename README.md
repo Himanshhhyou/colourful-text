@@ -1,6 +1,6 @@
 # Colourful-text
 Here, I'll show you how to change the color of individual letters in a word.
-![colourful-text.png](colouful-text.png)
+![colourful-text.png](colourful-text.png)
 
 ## HTML
 
